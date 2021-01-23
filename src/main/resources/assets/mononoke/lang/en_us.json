@@ -1,0 +1,48 @@
+{
+  "item.mononoke.soul_block" : "Hitodama Debug Block",
+  "item.mononoke.soul_item_undead" : "Hitodama (Undead)",
+  "item.mononoke.soul_item_ordinary" : "Hitodama (Ordinary)",
+  "item.mononoke.soul_item_arthropod" : "Hitodama (Arthropod)",
+  "item.mononoke.soul_item_illager" : "Hitodama (Illager)",
+  "item.mononoke.soul_item_water" : "Hitodama (Water)",
+
+  "item.mononoke.soul_essence_fragment" : "Hitodama essence fragment",
+  "item.mononoke.soul_essence" : "Hitodama essence",
+
+  "item.mononoke.soulurium_sword" : "Soulurium Sword",
+  "item.mononoke.soulurium_shovel" : "Soulurium Shovel",
+  "item.mononoke.soulurium_pickaxe" : "Soulurium Pickaxe",
+  "item.mononoke.soulurium_axe" : "Soulurium Axe",
+  "item.mononoke.soulurium_hoe" : "Soulurium Hoe",
+
+  "item.mononoke.soulurium_rod" : "Soulurium Rod",
+
+  "item.mononoke.soulurium_helmet" : "Soulurium Helmet",
+  "item.mononoke.soulurium_chestplate" : "Soulurium Chestplate",
+  "item.mononoke.soulurium_leggings" : "Soulurium Leggings",
+  "item.mononoke.soulurium_boots" : "Soulurium Boots",
+
+  "item.mononoke.powered_soulurium_sword" : "Soulurium Sword (Powered)",
+  "item.mononoke.powered_soulurium_shovel" : "Soulurium Shovel (Powered)",
+  "item.mononoke.powered_soulurium_pickaxe" : "Soulurium Pickaxe (Powered)",
+  "item.mononoke.powered_soulurium_axe" : "Soulurium Axe (Powered)",
+  "item.mononoke.powered_soulurium_hoe" : "Soulurium Hoe (Powered)",
+
+  "item.mononoke.soulurium_ingot" : "Soulurium Ingot",
+
+  "block.mononoke.mononoke_base_block" : "Base block",
+  "block.mononoke.gotai_statue_block" : "Gotai Statue",
+  "block.mononoke.mononoke_pumpkin" : "Mononoke pumpkin",
+  "block.mononoke.soul_block" : "Debug block Hitodama",
+
+  "block.mononoke.soulurium_block" : "Soulurium Block",
+  "block.mononoke.powered_soulurium_block" : "Powered Soulurium Block",
+
+  "enchantment.mononoke.shinigami_enchantment" : "Shinigami will",
+  "enchantment.mononoke.shinigami_enchantment.desc" : "Will of Shinigami is your chance to drop part of hitodama. Also does additional damage.",
+
+  "itemGroup.MononokeTab" : "Mononoke",
+
+  "tooltip.mononoke.holdShift": "§bHold §5§lShift§r§b to see details.",
+  "tooltip.mononoke.soul": "§bHitodama are balls of fire that mainly float in the middle of night. \nThey are said to be \"souls of the dead that have separated from their bodies\", \nwhich is where their name comes from."
+}

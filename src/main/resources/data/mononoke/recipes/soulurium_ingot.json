@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "mononoke:soul_essence"
+    }
+  ],
+  "result":
+  {
+    "item": "mononoke:soulurium_ingot",
+    "count": 2
+  }
+}

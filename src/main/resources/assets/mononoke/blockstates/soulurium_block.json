@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mononoke:block/soulurium_block" }
+  }
+}

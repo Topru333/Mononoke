@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mononoke:soulurium_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mononoke:soulurium_helmet",
+    "count": 1
+  }
+}

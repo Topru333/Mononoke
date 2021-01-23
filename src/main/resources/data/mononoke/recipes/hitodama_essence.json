@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mononoke:soul_essence_fragment"
+    },
+    {
+      "item": "mononoke:soul_essence_fragment"
+    },
+    {
+      "item": "mononoke:soul_essence_fragment"
+    },
+    {
+      "item": "mononoke:soul_essence_fragment"
+    }
+  ],
+  "result":
+  {
+    "item": "mononoke:soul_essence",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mononoke:soulurium_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mononoke:soulurium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "mononoke:blocks/pumpkin_top",
+		"front": "mononoke:blocks/pumpkin_face",
+		"side": "mononoke:blocks/pumpkin_side"
+	}
+}

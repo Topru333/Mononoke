@@ -1,0 +1,11 @@
+
+{
+  "replace": false,
+  "values": [
+    "#forge:souls/water_soul",
+    "#forge:souls/illager_soul",
+    "#forge:souls/undead_soul",
+    "#forge:souls/arthropod_soul",
+    "#forge:souls/ordinary_soul"
+  ]
+}

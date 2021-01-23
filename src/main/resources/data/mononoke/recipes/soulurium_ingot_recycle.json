@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mononoke:soulurium_block"
+    }
+  ],
+  "result":
+  {
+    "item": "mononoke:soulurium_ingot",
+    "count": 9
+  }
+}

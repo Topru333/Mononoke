@@ -1,0 +1,58 @@
+{
+	"ambientocclusion": false,
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "mononoke:blocks/soul_block_cadres",
+		"1": "mononoke:blocks/soul_flame_texture_cadres",
+		"particle": "mononoke:particle/soul_block_particles"
+	},
+	"elements": [
+		{
+			"from": [4, 10, 8],
+			"to": [12, 18, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0, 6], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [8, 10, 4],
+			"to": [8, 18, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 18, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [6, 6, 6],
+			"to": [10, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 14]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "Animation fire",
+			"origin": [16, 18, 12],
+			"children": [0, 1]
+		}, 2]
+}

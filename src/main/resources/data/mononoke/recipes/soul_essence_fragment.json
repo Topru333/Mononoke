@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:souls"
+  },
+  "result": "mononoke:soul_essence_fragment",
+  "experience": 0.05,
+  "cookingtime": 200
+}

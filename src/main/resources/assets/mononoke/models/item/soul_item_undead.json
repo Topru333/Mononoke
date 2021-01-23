@@ -1,0 +1,6 @@
+{
+  "parent": "mononoke:item/soul_item",
+  "textures": {
+    "layer0": "mononoke:items/undead_soul_item"
+  }
+}
