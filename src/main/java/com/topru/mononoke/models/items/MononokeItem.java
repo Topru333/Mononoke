@@ -14,12 +14,16 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import javax.annotation.Nullable;
 import java.util.List;
 
-public abstract class MononokeItem extends Item {
+public class MononokeItem extends Item {
 
     private String loreTag = "";
 
     public MononokeItem(Item.Properties properties) {
         super(properties.group(Mononoke.TAB));
+    }
+
+    public MononokeItem() {
+        super(new Item.Properties().group(Mononoke.TAB));
     }
 
     @Override

@@ -2,6 +2,7 @@ package com.topru.mononoke.registry.libs;
 
 import com.topru.mononoke.Mononoke;
 import com.topru.mononoke.models.blockitems.BlockItemBase;
+import com.topru.mononoke.models.items.MononokeItem;
 import com.topru.mononoke.models.items.SoulItem;
 import com.topru.mononoke.util.CreatureType;
 import net.minecraft.item.Item;
@@ -11,10 +12,10 @@ import net.minecraftforge.registries.ObjectHolder;
 public class LibItems extends Lib<Item> {
 
     private LibItems() {
-        SOULURIUM_INGOT = new Item(new Item.Properties().group(Mononoke.TAB)).setRegistryName("soulurium_ingot");
-        SOULURIUM_ROD = new Item(new Item.Properties().group(Mononoke.TAB)).setRegistryName("soulurium_rod");
-        HITODAMA_ESSENCE = new Item(new Item.Properties().group(Mononoke.TAB)).setRegistryName("soul_essence");
-        HITODAMA_ESSENCE_FRAGMENT = new Item(new Item.Properties().group(Mononoke.TAB)).setRegistryName("soul_essence_fragment");
+        SOULURIUM_INGOT = new MononokeItem().setRegistryName("soulurium_ingot");
+        SOULURIUM_ROD = new MononokeItem().setRegistryName("soulurium_rod");
+        HITODAMA_ESSENCE = new MononokeItem().setRegistryName("soul_essence");
+        HITODAMA_ESSENCE_FRAGMENT = new MononokeItem().setRegistryName("soul_essence_fragment");
 
         ORDINARY_SOUL_ITEM = new SoulItem(CreatureType.UNDEFINED).setRegistryName("soul_item_ordinary");
         ILLAGER_SOUL_ITEM = new SoulItem(CreatureType.ILLAGER).setRegistryName("soul_item_illager");
