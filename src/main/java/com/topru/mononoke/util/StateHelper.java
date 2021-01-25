@@ -1,7 +1,7 @@
 package com.topru.mononoke.util;
 
-import com.topru.mononoke.models.blocks.states.IStateFluidLoggable;
-import com.topru.mononoke.models.blocks.states.IStateRotatable;
+import com.topru.mononoke.common.block.states.IStateFluidLoggable;
+import com.topru.mononoke.common.block.states.IStateRotatable;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.HorizontalBlock;
